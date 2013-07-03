@@ -82,7 +82,7 @@ This would allow the developer to define more granular callbacks vs. detecting t
 
 ### Example using callbacks
 
-`jquery.observeWithCallbacks.js` is an alternate version of the observe plugin which showcases an alternative appraoch of using Mutation Observers with traditional callback parameters.
+`jquery.observeWithCallbacks.js` is an alternate version of the observe plugin which uses Mutation Observers with traditional callback parameters.
 
 	var $body = $( document.body );
 
